@@ -79,7 +79,7 @@ Mais do que uma característica, ser neurodivergente faz parte da minha identida
 
 ---
 
-## 📌 Projetos em destaque
+## 📌 Projetos
 
 ### 🌐 Rede Social para a Comunidade Autista
 
