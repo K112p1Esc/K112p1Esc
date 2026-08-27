@@ -34,13 +34,11 @@ Depois da ETEC, comecei minha trajetória na **SPTech**, onde continuei aprofund
 
 Um dos projetos que desenvolvi foi o **Smart Waste System**, uma solução desenvolvida com **Node.js e Arduino** para realizar a análise de resíduos em hospitais.
 
-Esse projeto me proporcionou contato com conceitos de:
+Esse projeto me proporcionou também o contato com conceitos de:
 
 - Internet das Coisas (IoT)
 - Programação
-- Automação
 - Hardware
-- Análise de dados
 
 ---
 
