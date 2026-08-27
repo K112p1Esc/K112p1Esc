@@ -125,18 +125,6 @@ Atualmente estou focado em:
 
 ---
 
-## 📊 GitHub
-
-<div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=K112p1Esc&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=K112p1Esc&layout=compact&langs_count=8&theme=tokyonight"/>
-
-</div>
-
----
-
 ## 🌱 Sempre aprendendo
 
 Acredito que programação não é apenas escrever código.
