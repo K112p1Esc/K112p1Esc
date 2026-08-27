@@ -93,7 +93,7 @@ O objetivo do projeto era criar uma rede social voltada para a comunidade autist
 
 ---
 
-### ♻️ [Smart Waste System](https://github.com/Smart-Waste-Monitor/Back-End-Grupo)
+### ♻️ [Smart Waste Monitor](https://github.com/Smart-Waste-Monitor/Back-End-Grupo)
 
 Projeto desenvolvido durante minha formação na SPTech.
 
